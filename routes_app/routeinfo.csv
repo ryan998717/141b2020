@@ -1,0 +1,15 @@
+name,abbr,routeID,number,hexcolor,color
+Oakland Airport to Coliseum,COLS-OAKL,ROUTE 19,19,#D5CFA3,BEIGE
+Coliseum to Oakland Airport,OAKL-COLS,ROUTE 20,20,#D5CFA3,BEIGE
+Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,12,#0099CC,BLUE
+Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,11,#0099CC,BLUE
+Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,6,#339933,GREEN
+Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,5,#339933,GREEN
+Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,3,#FF9933,ORANGE
+Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,4,#FF9933,ORANGE
+Millbrae to San Francisco International Airport,MLBR-SFIA,ROUTE 13,13,#C463C5,""
+San Francisco International Airport to Millbrae,SFIA-MLBR,ROUTE 14,14,#C463C5,""
+Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,8,#FF0000,RED
+Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,7,#FF0000,RED
+Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,2,#FFFF33,YELLOW
+Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,1,#FFFF33,YELLOW

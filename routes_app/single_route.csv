@@ -1,0 +1,223 @@
+number,index,@station,@load,@bikeflag,reachtime,station_id,routename,abbr,routeID,hexcolor,color,name,gtfs_latitude,gtfs_longitude,address,city,county,state,zipcode,N
+1,1,12TH,0,1,5,13,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,12th St. Oakland City Center,37.803768,-122.27145,1245 Broadway,Oakland,alameda,CA,94612,27
+1,1,16TH,0,1,6,19,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,16th St. Mission,37.765062,-122.419694,2000 Mission Street,San Francisco,sanfrancisco,CA,94110,27
+1,1,19TH,0,1,5,12,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,19th St. Oakland,37.80835,-122.268602,1900 Broadway,Oakland,alameda,CA,94612,27
+1,1,24TH,0,1,6,20,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,24th St. Mission,37.75247,-122.418143,2800 Mission Street,San Francisco,sanfrancisco,CA,94110,27
+1,1,ANTC,0,1,4,1,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Antioch,37.995388,-121.78042,1600 Slatten Ranch Road,Antioch,Contra Costa,CA,94509,27
+1,1,BALB,0,1,6,22,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Balboa Park,37.721585,-122.447506,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112,27
+1,1,CIVC,0,1,5,18,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Civic Center/UN Plaza,37.779732,-122.414123,1150 Market Street,San Francisco,sanfrancisco,CA,94102,27
+1,1,COLM,0,1,6,24,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Colma,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014,27
+1,1,CONC,0,1,5,5,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Concord,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520,27
+1,1,DALY,0,1,6,23,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Daly City,37.706121,-122.469081,500 John Daly Blvd.,Daly City,sanmateo,CA,94014,27
+1,1,EMBR,0,1,5,15,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Embarcadero,37.792874,-122.39702,298 Market Street,San Francisco,sanfrancisco,CA,94111,27
+1,1,GLEN,0,1,6,21,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Glen Park,37.733064,-122.433817,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131,27
+1,1,LAFY,0,1,5,8,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Lafayette,37.893176,-122.12463,3601 Deer Hill Road,Lafayette,contracosta,CA,94549,27
+1,1,MCAR,0,1,5,11,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,MacArthur,37.829065,-122.26704,555 40th Street,Oakland,alameda,CA,94609,27
+1,1,MONT,0,1,5,16,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Montgomery St.,37.789405,-122.401066,598 Market Street,San Francisco,sanfrancisco,CA,94104,27
+1,1,NCON,0,1,5,4,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,North Concord/Martinez,38.003193,-122.024653,3700 Port Chicago Highway,Concord,contracosta,CA,94520,27
+1,1,ORIN,0,1,5,9,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Orinda,37.878361,-122.183791,11 Camino Pablo,Orinda,contracosta,CA,94563,27
+1,1,PCTR,0,1,4,2,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Pittsburg Center,38.016941,-121.889457,2099 Railroad Avenue,Pittsburg,Contra Costa,CA,94565,27
+1,1,PHIL,0,1,5,6,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Pleasant Hill/Contra Costa Centre,37.928468,-122.056012,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597,27
+1,1,PITT,0,1,5,3,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Pittsburg/Bay Point,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565,27
+1,1,POWL,0,1,5,17,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Powell St.,37.784471,-122.407974,899 Market Street,San Francisco,sanfrancisco,CA,94102,27
+1,1,ROCK,0,1,5,10,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Rockridge,37.844702,-122.251371,5660 College Avenue,Oakland,alameda,CA,94618,27
+1,1,SBRN,0,1,6,26,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,San Bruno,37.637761,-122.416287,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066,27
+1,1,SFIA,0,1,6,27,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,San Francisco International Airport,37.615966,-122.392409,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128,27
+1,1,SSAN,0,1,6,25,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,South San Francisco,37.664245,-122.44396,1333 Mission Road,South San Francisco,sanmateo,CA,94080,27
+1,1,WCRK,0,1,5,7,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,Walnut Creek,37.905522,-122.067527,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596,27
+1,1,WOAK,0,1,5,14,Antioch to SFIA/Millbrae,ANTC-SFIA,ROUTE 1,#FFFF33,YELLOW,West Oakland,37.804872,-122.29514,1451 7th Street,Oakland,alameda,CA,94607,27
+11,1,16TH,0,1,5,14,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,16th St. Mission,37.765062,-122.419694,2000 Mission Street,San Francisco,sanfrancisco,CA,94110,18
+11,1,24TH,0,1,5,15,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,24th St. Mission,37.75247,-122.418143,2800 Mission Street,San Francisco,sanfrancisco,CA,94110,18
+11,1,BALB,0,1,5,17,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Balboa Park,37.721585,-122.447506,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112,18
+11,1,BAYF,0,1,5,4,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Bay Fair,37.696924,-122.126514,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578,18
+11,1,CAST,0,1,5,3,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Castro Valley,37.690746,-122.075602,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546,18
+11,1,CIVC,0,1,5,13,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Civic Center/UN Plaza,37.779732,-122.414123,1150 Market Street,San Francisco,sanfrancisco,CA,94102,18
+11,1,COLS,0,1,5,6,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Coliseum,37.753661,-122.196869,7200 San Leandro St.,Oakland,alameda,CA,94621,18
+11,1,DALY,0,1,5,18,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Daly City,37.706121,-122.469081,500 John Daly Blvd.,Daly City,sanmateo,CA,94014,18
+11,1,DUBL,0,1,4,1,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Dublin/Pleasanton,37.701687,-121.899179,5801 Owens Dr.,Pleasanton,alameda,CA,94588,18
+11,1,EMBR,0,1,5,10,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Embarcadero,37.792874,-122.39702,298 Market Street,San Francisco,sanfrancisco,CA,94111,18
+11,1,FTVL,0,1,5,7,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Fruitvale,37.774836,-122.224175,3401 East 12th Street,Oakland,alameda,CA,94601,18
+11,1,GLEN,0,1,5,16,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Glen Park,37.733064,-122.433817,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131,18
+11,1,LAKE,0,1,5,8,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Lake Merritt,37.797027,-122.26518,800 Madison Street,Oakland,alameda,CA,94607,18
+11,1,MONT,0,1,5,11,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Montgomery St.,37.789405,-122.401066,598 Market Street,San Francisco,sanfrancisco,CA,94104,18
+11,1,POWL,0,1,5,12,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,Powell St.,37.784471,-122.407974,899 Market Street,San Francisco,sanfrancisco,CA,94102,18
+11,1,SANL,0,1,5,5,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,San Leandro,37.721947,-122.160844,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577,18
+11,1,WDUB,0,1,4,2,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,West Dublin/Pleasanton,37.699756,-121.92824,6501 Golden Gate Drive,Dublin,alameda,CA,94568,18
+11,1,WOAK,0,1,5,9,Dublin/Pleasanton to Daly City,DUBL-DALY,ROUTE 11,#0099CC,BLUE,West Oakland,37.804872,-122.29514,1451 7th Street,Oakland,alameda,CA,94607,18
+12,1,16TH,0,1,5,5,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,16th St. Mission,37.765062,-122.419694,2000 Mission Street,San Francisco,sanfrancisco,CA,94110,18
+12,1,24TH,0,1,5,4,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,24th St. Mission,37.75247,-122.418143,2800 Mission Street,San Francisco,sanfrancisco,CA,94110,18
+12,1,BALB,0,1,5,2,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Balboa Park,37.721585,-122.447506,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112,18
+12,1,BAYF,0,1,5,15,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Bay Fair,37.696924,-122.126514,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578,18
+12,1,CAST,0,1,5,16,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Castro Valley,37.690746,-122.075602,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546,18
+12,1,CIVC,0,1,5,6,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Civic Center/UN Plaza,37.779732,-122.414123,1150 Market Street,San Francisco,sanfrancisco,CA,94102,18
+12,1,COLS,0,1,5,13,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Coliseum,37.753661,-122.196869,7200 San Leandro St.,Oakland,alameda,CA,94621,18
+12,1,DALY,0,1,5,1,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Daly City,37.706121,-122.469081,500 John Daly Blvd.,Daly City,sanmateo,CA,94014,18
+12,1,DUBL,0,1,6,18,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Dublin/Pleasanton,37.701687,-121.899179,5801 Owens Dr.,Pleasanton,alameda,CA,94588,18
+12,1,EMBR,0,1,5,9,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Embarcadero,37.792874,-122.39702,298 Market Street,San Francisco,sanfrancisco,CA,94111,18
+12,1,FTVL,0,1,5,12,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Fruitvale,37.774836,-122.224175,3401 East 12th Street,Oakland,alameda,CA,94601,18
+12,1,GLEN,0,1,5,3,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Glen Park,37.733064,-122.433817,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131,18
+12,1,LAKE,0,1,5,11,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Lake Merritt,37.797027,-122.26518,800 Madison Street,Oakland,alameda,CA,94607,18
+12,1,MONT,0,1,5,8,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Montgomery St.,37.789405,-122.401066,598 Market Street,San Francisco,sanfrancisco,CA,94104,18
+12,1,POWL,0,1,5,7,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,Powell St.,37.784471,-122.407974,899 Market Street,San Francisco,sanfrancisco,CA,94102,18
+12,1,SANL,0,1,5,14,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,San Leandro,37.721947,-122.160844,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577,18
+12,1,WDUB,0,1,6,17,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,West Dublin/Pleasanton,37.699756,-121.92824,6501 Golden Gate Drive,Dublin,alameda,CA,94568,18
+12,1,WOAK,0,1,5,10,Daly City to Dublin/Pleasanton,DALY-DUBL,ROUTE 12,#0099CC,BLUE,West Oakland,37.804872,-122.29514,1451 7th Street,Oakland,alameda,CA,94607,18
+13,1,MLBR,0,1,5,1,Millbrae to San Francisco International Airport,MLBR-SFIA,ROUTE 13,#C463C5,"",Millbrae,37.600271,-122.386702,200 North Rollins Road,Millbrae,sanmateo,CA,94030,2
+13,1,SFIA,0,1,5,2,Millbrae to San Francisco International Airport,MLBR-SFIA,ROUTE 13,#C463C5,"",San Francisco International Airport,37.615966,-122.392409,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128,2
+14,1,MLBR,0,1,6,2,San Francisco International Airport to Millbrae,SFIA-MLBR,ROUTE 14,#C463C5,"",Millbrae,37.600271,-122.386702,200 North Rollins Road,Millbrae,sanmateo,CA,94030,2
+14,1,SFIA,0,1,6,1,San Francisco International Airport to Millbrae,SFIA-MLBR,ROUTE 14,#C463C5,"",San Francisco International Airport,37.615966,-122.392409,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128,2
+19,1,COLS,0,1,5,2,Oakland Airport to Coliseum,COLS-OAKL,ROUTE 19,#D5CFA3,BEIGE,Coliseum,37.753661,-122.196869,7200 San Leandro St.,Oakland,alameda,CA,94621,2
+19,1,OAKL,0,1,4,1,Oakland Airport to Coliseum,COLS-OAKL,ROUTE 19,#D5CFA3,BEIGE,Oakland International Airport,37.713238,-122.212191,4 Airport Drive,Oakland,alameda,CA,94621,2
+2,2,12TH,0,1,5,15,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,12th St. Oakland City Center,37.803768,-122.27145,1245 Broadway,Oakland,alameda,CA,94612,27
+2,2,16TH,0,1,5,9,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,16th St. Mission,37.765062,-122.419694,2000 Mission Street,San Francisco,sanfrancisco,CA,94110,27
+2,2,19TH,0,1,5,16,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,19th St. Oakland,37.80835,-122.268602,1900 Broadway,Oakland,alameda,CA,94612,27
+2,2,24TH,0,1,5,8,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,24th St. Mission,37.75247,-122.418143,2800 Mission Street,San Francisco,sanfrancisco,CA,94110,27
+2,2,ANTC,0,1,6,27,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Antioch,37.995388,-121.78042,1600 Slatten Ranch Road,Antioch,Contra Costa,CA,94509,27
+2,2,BALB,0,1,5,6,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Balboa Park,37.721585,-122.447506,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112,27
+2,2,CIVC,0,1,5,10,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Civic Center/UN Plaza,37.779732,-122.414123,1150 Market Street,San Francisco,sanfrancisco,CA,94102,27
+2,2,COLM,0,1,5,4,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Colma,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014,27
+2,2,CONC,0,1,6,23,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Concord,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520,27
+2,2,DALY,0,1,5,5,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Daly City,37.706121,-122.469081,500 John Daly Blvd.,Daly City,sanmateo,CA,94014,27
+2,2,EMBR,0,1,5,13,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Embarcadero,37.792874,-122.39702,298 Market Street,San Francisco,sanfrancisco,CA,94111,27
+2,2,GLEN,0,1,5,7,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Glen Park,37.733064,-122.433817,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131,27
+2,2,LAFY,0,1,6,20,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Lafayette,37.893176,-122.12463,3601 Deer Hill Road,Lafayette,contracosta,CA,94549,27
+2,2,MCAR,0,1,5,17,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,MacArthur,37.829065,-122.26704,555 40th Street,Oakland,alameda,CA,94609,27
+2,2,MONT,0,1,5,12,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Montgomery St.,37.789405,-122.401066,598 Market Street,San Francisco,sanfrancisco,CA,94104,27
+2,2,NCON,0,1,6,24,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,North Concord/Martinez,38.003193,-122.024653,3700 Port Chicago Highway,Concord,contracosta,CA,94520,27
+2,2,ORIN,0,1,6,19,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Orinda,37.878361,-122.183791,11 Camino Pablo,Orinda,contracosta,CA,94563,27
+2,2,PCTR,0,1,6,26,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Pittsburg Center,38.016941,-121.889457,2099 Railroad Avenue,Pittsburg,Contra Costa,CA,94565,27
+2,2,PHIL,0,1,6,22,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Pleasant Hill/Contra Costa Centre,37.928468,-122.056012,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597,27
+2,2,PITT,0,1,6,25,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Pittsburg/Bay Point,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565,27
+2,2,POWL,0,1,5,11,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Powell St.,37.784471,-122.407974,899 Market Street,San Francisco,sanfrancisco,CA,94102,27
+2,2,ROCK,0,1,6,18,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Rockridge,37.844702,-122.251371,5660 College Avenue,Oakland,alameda,CA,94618,27
+2,2,SBRN,0,1,5,2,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,San Bruno,37.637761,-122.416287,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066,27
+2,2,SFIA,0,1,5,1,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,San Francisco International Airport,37.615966,-122.392409,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128,27
+2,2,SSAN,0,1,5,3,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,South San Francisco,37.664245,-122.44396,1333 Mission Road,South San Francisco,sanmateo,CA,94080,27
+2,2,WCRK,0,1,6,21,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,Walnut Creek,37.905522,-122.067527,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596,27
+2,2,WOAK,0,1,5,14,Millbrae/SFIA to Antioch,SFIA-ANTC,ROUTE 2,#FFFF33,YELLOW,West Oakland,37.804872,-122.29514,1451 7th Street,Oakland,alameda,CA,94607,27
+20,1,COLS,0,1,5,1,Coliseum to Oakland Airport,OAKL-COLS,ROUTE 20,#D5CFA3,BEIGE,Coliseum,37.753661,-122.196869,7200 San Leandro St.,Oakland,alameda,CA,94621,2
+20,1,OAKL,0,1,5,2,Coliseum to Oakland Airport,OAKL-COLS,ROUTE 20,#D5CFA3,BEIGE,Oakland International Airport,37.713238,-122.212191,4 Airport Drive,Oakland,alameda,CA,94621,2
+3,3,12TH,0,1,5,11,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,12th St. Oakland City Center,37.803768,-122.27145,1245 Broadway,Oakland,alameda,CA,94612,19
+3,3,19TH,0,1,5,12,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,19th St. Oakland,37.80835,-122.268602,1900 Broadway,Oakland,alameda,CA,94612,19
+3,3,ASHB,0,1,6,14,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,Ashby,37.852803,-122.270062,3100 Adeline Street,Berkeley,alameda,CA,94703,19
+3,3,BAYF,0,1,5,6,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,Bay Fair,37.696924,-122.126514,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578,19
+3,3,COLS,0,1,5,8,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,Coliseum,37.753661,-122.196869,7200 San Leandro St.,Oakland,alameda,CA,94621,19
+3,3,DBRK,0,1,6,15,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,Downtown Berkeley,37.870104,-122.268133,2160 Shattuck Avenue,Berkeley,alameda,CA,94704,19
+3,3,DELN,0,1,6,18,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,El Cerrito del Norte,37.925086,-122.316794,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530,19
+3,3,FRMT,0,1,5,2,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,Fremont,37.557465,-121.976608,2000 BART Way,Fremont,alameda,CA,94536,19
+3,3,FTVL,0,1,5,9,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,Fruitvale,37.774836,-122.224175,3401 East 12th Street,Oakland,alameda,CA,94601,19
+3,3,HAYW,0,1,5,5,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,Hayward,37.669723,-122.087018,699 'B' Street,Hayward,alameda,CA,94541,19
+3,3,LAKE,0,1,5,10,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,Lake Merritt,37.797027,-122.26518,800 Madison Street,Oakland,alameda,CA,94607,19
+3,3,MCAR,0,1,5,13,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,MacArthur,37.829065,-122.26704,555 40th Street,Oakland,alameda,CA,94609,19
+3,3,NBRK,0,1,6,16,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,North Berkeley,37.873967,-122.28344,1750 Sacramento Street,Berkeley,alameda,CA,94702,19
+3,3,PLZA,0,1,6,17,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,El Cerrito Plaza,37.902632,-122.298904,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530,19
+3,3,RICH,0,1,6,19,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,Richmond,37.936853,-122.353099,1700 Nevin Avenue,Richmond,contracosta,CA,94801,19
+3,3,SANL,0,1,5,7,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,San Leandro,37.721947,-122.160844,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577,19
+3,3,SHAY,0,1,5,4,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,South Hayward,37.634375,-122.057189,28601 Dixon Street,Hayward,alameda,CA,94544,19
+3,3,UCTY,0,1,5,3,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,Union City,37.59063,-122.017388,10 Union Square,Union City,alameda,CA,94587,19
+3,3,WARM,0,1,5,1,Warm Springs/South Fremont to Richmond,WARM-RICH,ROUTE 3,#FF9933,ORANGE,Warm Springs/South Fremont,37.502171,-121.939313,45193 Warm Springs Blvd,Fremont,alameda,CA,94539,19
+4,1,12TH,0,1,5,9,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,12th St. Oakland City Center,37.803768,-122.27145,1245 Broadway,Oakland,alameda,CA,94612,19
+4,1,19TH,0,1,5,8,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,19th St. Oakland,37.80835,-122.268602,1900 Broadway,Oakland,alameda,CA,94612,19
+4,1,ASHB,0,1,5,6,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,Ashby,37.852803,-122.270062,3100 Adeline Street,Berkeley,alameda,CA,94703,19
+4,1,BAYF,0,1,5,14,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,Bay Fair,37.696924,-122.126514,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578,19
+4,1,COLS,0,1,5,12,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,Coliseum,37.753661,-122.196869,7200 San Leandro St.,Oakland,alameda,CA,94621,19
+4,1,DBRK,0,1,5,5,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,Downtown Berkeley,37.870104,-122.268133,2160 Shattuck Avenue,Berkeley,alameda,CA,94704,19
+4,1,DELN,0,1,5,2,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,El Cerrito del Norte,37.925086,-122.316794,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530,19
+4,1,FRMT,0,1,6,18,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,Fremont,37.557465,-121.976608,2000 BART Way,Fremont,alameda,CA,94536,19
+4,1,FTVL,0,1,5,11,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,Fruitvale,37.774836,-122.224175,3401 East 12th Street,Oakland,alameda,CA,94601,19
+4,1,HAYW,0,1,5,15,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,Hayward,37.669723,-122.087018,699 'B' Street,Hayward,alameda,CA,94541,19
+4,1,LAKE,0,1,5,10,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,Lake Merritt,37.797027,-122.26518,800 Madison Street,Oakland,alameda,CA,94607,19
+4,1,MCAR,0,1,5,7,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,MacArthur,37.829065,-122.26704,555 40th Street,Oakland,alameda,CA,94609,19
+4,1,NBRK,0,1,5,4,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,North Berkeley,37.873967,-122.28344,1750 Sacramento Street,Berkeley,alameda,CA,94702,19
+4,1,PLZA,0,1,5,3,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,El Cerrito Plaza,37.902632,-122.298904,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530,19
+4,1,RICH,0,1,5,1,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,Richmond,37.936853,-122.353099,1700 Nevin Avenue,Richmond,contracosta,CA,94801,19
+4,1,SANL,0,1,5,13,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,San Leandro,37.721947,-122.160844,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577,19
+4,1,SHAY,0,1,5,16,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,South Hayward,37.634375,-122.057189,28601 Dixon Street,Hayward,alameda,CA,94544,19
+4,1,UCTY,0,1,6,17,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,Union City,37.59063,-122.017388,10 Union Square,Union City,alameda,CA,94587,19
+4,1,WARM,0,1,6,19,Richmond to Warm Springs/South Fremont,RICH-WARM,ROUTE 4,#FF9933,ORANGE,Warm Springs/South Fremont,37.502171,-121.939313,45193 Warm Springs Blvd,Fremont,alameda,CA,94539,19
+5,2,16TH,0,1,5,16,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,16th St. Mission,37.765062,-122.419694,2000 Mission Street,San Francisco,sanfrancisco,CA,94110,20
+5,2,24TH,0,1,6,17,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,24th St. Mission,37.75247,-122.418143,2800 Mission Street,San Francisco,sanfrancisco,CA,94110,20
+5,2,BALB,0,1,6,19,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Balboa Park,37.721585,-122.447506,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112,20
+5,2,BAYF,0,1,5,6,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Bay Fair,37.696924,-122.126514,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578,20
+5,2,CIVC,0,1,5,15,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Civic Center/UN Plaza,37.779732,-122.414123,1150 Market Street,San Francisco,sanfrancisco,CA,94102,20
+5,2,COLS,0,1,5,8,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Coliseum,37.753661,-122.196869,7200 San Leandro St.,Oakland,alameda,CA,94621,20
+5,2,DALY,0,1,6,20,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Daly City,37.706121,-122.469081,500 John Daly Blvd.,Daly City,sanmateo,CA,94014,20
+5,2,EMBR,0,1,5,12,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Embarcadero,37.792874,-122.39702,298 Market Street,San Francisco,sanfrancisco,CA,94111,20
+5,2,FRMT,0,1,5,2,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Fremont,37.557465,-121.976608,2000 BART Way,Fremont,alameda,CA,94536,20
+5,2,FTVL,0,1,5,9,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Fruitvale,37.774836,-122.224175,3401 East 12th Street,Oakland,alameda,CA,94601,20
+5,2,GLEN,0,1,6,18,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Glen Park,37.733064,-122.433817,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131,20
+5,2,HAYW,0,1,5,5,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Hayward,37.669723,-122.087018,699 'B' Street,Hayward,alameda,CA,94541,20
+5,2,LAKE,0,1,5,10,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Lake Merritt,37.797027,-122.26518,800 Madison Street,Oakland,alameda,CA,94607,20
+5,2,MONT,0,1,5,13,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Montgomery St.,37.789405,-122.401066,598 Market Street,San Francisco,sanfrancisco,CA,94104,20
+5,2,POWL,0,1,5,14,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Powell St.,37.784471,-122.407974,899 Market Street,San Francisco,sanfrancisco,CA,94102,20
+5,2,SANL,0,1,5,7,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,San Leandro,37.721947,-122.160844,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577,20
+5,2,SHAY,0,1,5,4,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,South Hayward,37.634375,-122.057189,28601 Dixon Street,Hayward,alameda,CA,94544,20
+5,2,UCTY,0,1,5,3,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Union City,37.59063,-122.017388,10 Union Square,Union City,alameda,CA,94587,20
+5,2,WARM,0,1,5,1,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,Warm Springs/South Fremont,37.502171,-121.939313,45193 Warm Springs Blvd,Fremont,alameda,CA,94539,20
+5,2,WOAK,0,1,5,11,Warm Springs/South Fremont to Daly City,WARM-DALY,ROUTE 5,#339933,GREEN,West Oakland,37.804872,-122.29514,1451 7th Street,Oakland,alameda,CA,94607,20
+6,4,16TH,0,1,6,5,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,16th St. Mission,37.765062,-122.419694,2000 Mission Street,San Francisco,sanfrancisco,CA,94110,20
+6,4,24TH,0,1,6,4,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,24th St. Mission,37.75247,-122.418143,2800 Mission Street,San Francisco,sanfrancisco,CA,94110,20
+6,4,BALB,0,1,6,2,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Balboa Park,37.721585,-122.447506,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112,20
+6,4,BAYF,0,1,6,15,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Bay Fair,37.696924,-122.126514,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578,20
+6,4,CIVC,0,1,6,6,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Civic Center/UN Plaza,37.779732,-122.414123,1150 Market Street,San Francisco,sanfrancisco,CA,94102,20
+6,4,COLS,0,1,6,13,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Coliseum,37.753661,-122.196869,7200 San Leandro St.,Oakland,alameda,CA,94621,20
+6,4,DALY,0,1,6,1,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Daly City,37.706121,-122.469081,500 John Daly Blvd.,Daly City,sanmateo,CA,94014,20
+6,4,EMBR,0,1,6,9,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Embarcadero,37.792874,-122.39702,298 Market Street,San Francisco,sanfrancisco,CA,94111,20
+6,4,FRMT,0,1,7,19,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Fremont,37.557465,-121.976608,2000 BART Way,Fremont,alameda,CA,94536,20
+6,4,FTVL,0,1,6,12,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Fruitvale,37.774836,-122.224175,3401 East 12th Street,Oakland,alameda,CA,94601,20
+6,4,GLEN,0,1,6,3,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Glen Park,37.733064,-122.433817,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131,20
+6,4,HAYW,0,1,7,16,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Hayward,37.669723,-122.087018,699 'B' Street,Hayward,alameda,CA,94541,20
+6,4,LAKE,0,1,6,11,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Lake Merritt,37.797027,-122.26518,800 Madison Street,Oakland,alameda,CA,94607,20
+6,4,MONT,0,1,6,8,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Montgomery St.,37.789405,-122.401066,598 Market Street,San Francisco,sanfrancisco,CA,94104,20
+6,4,POWL,0,1,6,7,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Powell St.,37.784471,-122.407974,899 Market Street,San Francisco,sanfrancisco,CA,94102,20
+6,4,SANL,0,1,6,14,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,San Leandro,37.721947,-122.160844,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577,20
+6,4,SHAY,0,1,7,17,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,South Hayward,37.634375,-122.057189,28601 Dixon Street,Hayward,alameda,CA,94544,20
+6,4,UCTY,0,1,7,18,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Union City,37.59063,-122.017388,10 Union Square,Union City,alameda,CA,94587,20
+6,4,WARM,0,1,7,20,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,Warm Springs/South Fremont,37.502171,-121.939313,45193 Warm Springs Blvd,Fremont,alameda,CA,94539,20
+6,4,WOAK,0,1,6,10,Daly City to Warm Springs/South Fremont,DALY-WARM,ROUTE 6,#339933,GREEN,West Oakland,37.804872,-122.29514,1451 7th Street,Oakland,alameda,CA,94607,20
+7,1,12TH,0,1,5,9,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,12th St. Oakland City Center,37.803768,-122.27145,1245 Broadway,Oakland,alameda,CA,94612,23
+7,1,16TH,0,1,5,15,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,16th St. Mission,37.765062,-122.419694,2000 Mission Street,San Francisco,sanfrancisco,CA,94110,23
+7,1,19TH,0,1,5,8,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,19th St. Oakland,37.80835,-122.268602,1900 Broadway,Oakland,alameda,CA,94612,23
+7,1,24TH,0,1,5,16,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,24th St. Mission,37.75247,-122.418143,2800 Mission Street,San Francisco,sanfrancisco,CA,94110,23
+7,1,ASHB,0,1,5,6,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Ashby,37.852803,-122.270062,3100 Adeline Street,Berkeley,alameda,CA,94703,23
+7,1,BALB,0,1,5,18,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Balboa Park,37.721585,-122.447506,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112,23
+7,1,CIVC,0,1,5,14,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Civic Center/UN Plaza,37.779732,-122.414123,1150 Market Street,San Francisco,sanfrancisco,CA,94102,23
+7,1,COLM,0,1,5,20,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Colma,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014,23
+7,1,DALY,0,1,5,19,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Daly City,37.706121,-122.469081,500 John Daly Blvd.,Daly City,sanmateo,CA,94014,23
+7,1,DBRK,0,1,5,5,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Downtown Berkeley,37.870104,-122.268133,2160 Shattuck Avenue,Berkeley,alameda,CA,94704,23
+7,1,DELN,0,1,5,2,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,El Cerrito del Norte,37.925086,-122.316794,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530,23
+7,1,EMBR,0,1,5,11,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Embarcadero,37.792874,-122.39702,298 Market Street,San Francisco,sanfrancisco,CA,94111,23
+7,1,GLEN,0,1,5,17,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Glen Park,37.733064,-122.433817,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131,23
+7,1,MCAR,0,1,5,7,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,MacArthur,37.829065,-122.26704,555 40th Street,Oakland,alameda,CA,94609,23
+7,1,MLBR,0,1,6,23,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Millbrae,37.600271,-122.386702,200 North Rollins Road,Millbrae,sanmateo,CA,94030,23
+7,1,MONT,0,1,5,12,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Montgomery St.,37.789405,-122.401066,598 Market Street,San Francisco,sanfrancisco,CA,94104,23
+7,1,NBRK,0,1,5,4,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,North Berkeley,37.873967,-122.28344,1750 Sacramento Street,Berkeley,alameda,CA,94702,23
+7,1,PLZA,0,1,5,3,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,El Cerrito Plaza,37.902632,-122.298904,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530,23
+7,1,POWL,0,1,5,13,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Powell St.,37.784471,-122.407974,899 Market Street,San Francisco,sanfrancisco,CA,94102,23
+7,1,RICH,0,1,5,1,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,Richmond,37.936853,-122.353099,1700 Nevin Avenue,Richmond,contracosta,CA,94801,23
+7,1,SBRN,0,1,6,22,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,San Bruno,37.637761,-122.416287,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066,23
+7,1,SSAN,0,1,6,21,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,South San Francisco,37.664245,-122.44396,1333 Mission Road,South San Francisco,sanmateo,CA,94080,23
+7,1,WOAK,0,1,5,10,Richmond to Daly City/Millbrae,RICH-MLBR,ROUTE 7,#FF0000,RED,West Oakland,37.804872,-122.29514,1451 7th Street,Oakland,alameda,CA,94607,23
+8,1,12TH,0,1,6,15,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,12th St. Oakland City Center,37.803768,-122.27145,1245 Broadway,Oakland,alameda,CA,94612,23
+8,1,16TH,0,1,6,9,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,16th St. Mission,37.765062,-122.419694,2000 Mission Street,San Francisco,sanfrancisco,CA,94110,23
+8,1,19TH,0,1,6,16,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,19th St. Oakland,37.80835,-122.268602,1900 Broadway,Oakland,alameda,CA,94612,23
+8,1,24TH,0,1,6,8,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,24th St. Mission,37.75247,-122.418143,2800 Mission Street,San Francisco,sanfrancisco,CA,94110,23
+8,1,ASHB,0,1,6,18,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Ashby,37.852803,-122.270062,3100 Adeline Street,Berkeley,alameda,CA,94703,23
+8,1,BALB,0,1,6,6,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Balboa Park,37.721585,-122.447506,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112,23
+8,1,CIVC,0,1,6,10,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Civic Center/UN Plaza,37.779732,-122.414123,1150 Market Street,San Francisco,sanfrancisco,CA,94102,23
+8,1,COLM,0,1,5,4,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Colma,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014,23
+8,1,DALY,0,1,6,5,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Daly City,37.706121,-122.469081,500 John Daly Blvd.,Daly City,sanmateo,CA,94014,23
+8,1,DBRK,0,1,6,19,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Downtown Berkeley,37.870104,-122.268133,2160 Shattuck Avenue,Berkeley,alameda,CA,94704,23
+8,1,DELN,0,1,6,22,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,El Cerrito del Norte,37.925086,-122.316794,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530,23
+8,1,EMBR,0,1,6,13,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Embarcadero,37.792874,-122.39702,298 Market Street,San Francisco,sanfrancisco,CA,94111,23
+8,1,GLEN,0,1,6,7,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Glen Park,37.733064,-122.433817,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131,23
+8,1,MCAR,0,1,6,17,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,MacArthur,37.829065,-122.26704,555 40th Street,Oakland,alameda,CA,94609,23
+8,1,MLBR,0,1,5,1,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Millbrae,37.600271,-122.386702,200 North Rollins Road,Millbrae,sanmateo,CA,94030,23
+8,1,MONT,0,1,6,12,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Montgomery St.,37.789405,-122.401066,598 Market Street,San Francisco,sanfrancisco,CA,94104,23
+8,1,NBRK,0,1,6,20,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,North Berkeley,37.873967,-122.28344,1750 Sacramento Street,Berkeley,alameda,CA,94702,23
+8,1,PLZA,0,1,6,21,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,El Cerrito Plaza,37.902632,-122.298904,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530,23
+8,1,POWL,0,1,6,11,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Powell St.,37.784471,-122.407974,899 Market Street,San Francisco,sanfrancisco,CA,94102,23
+8,1,RICH,0,1,6,23,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,Richmond,37.936853,-122.353099,1700 Nevin Avenue,Richmond,contracosta,CA,94801,23
+8,1,SBRN,0,1,5,2,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,San Bruno,37.637761,-122.416287,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066,23
+8,1,SSAN,0,1,5,3,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,South San Francisco,37.664245,-122.44396,1333 Mission Road,South San Francisco,sanmateo,CA,94080,23
+8,1,WOAK,0,1,6,14,Millbrae/Daly City to Richmond,MLBR-RICH,ROUTE 8,#FF0000,RED,West Oakland,37.804872,-122.29514,1451 7th Street,Oakland,alameda,CA,94607,23
